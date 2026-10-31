@@ -1,0 +1,5 @@
+# HTTP communication with Ollama REST API
+requests>=2.31.0
+
+# Data processing and CSV export
+pandas>=2.0.0
